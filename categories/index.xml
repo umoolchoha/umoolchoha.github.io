@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Choha&#39;s blog</title>
+    <title>Categories on 초하</title>
     <link>https://umoolchoha.github.io/categories/</link>
-    <description>Recent content in Categories on Choha&#39;s blog</description>
+    <description>Recent content in Categories on 초하</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sun, 09 Jun 2019 23:10:56 +0900</lastBuildDate>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>2019</title>
-      <link>https://umoolchoha.github.io/categories/2019/</link>
+      <title>2019年 作</title>
+      <link>https://umoolchoha.github.io/categories/2019%E5%B9%B4-%E4%BD%9C/</link>
       <pubDate>Sun, 09 Jun 2019 23:10:56 +0900</pubDate>
       
-      <guid>https://umoolchoha.github.io/categories/2019/</guid>
+      <guid>https://umoolchoha.github.io/categories/2019%E5%B9%B4-%E4%BD%9C/</guid>
       <description></description>
     </item>
     
@@ -26,6 +26,15 @@
       <pubDate>Mon, 18 Mar 2019 21:34:36 +0900</pubDate>
       
       <guid>https://umoolchoha.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012年 作</title>
+      <link>https://umoolchoha.github.io/categories/2012%E5%B9%B4-%E4%BD%9C/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/categories/2012%E5%B9%B4-%E4%BD%9C/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>umool on Choha&#39;s blog</title>
+    <link>https://umoolchoha.github.io/tags/umool/</link>
+    <description>Recent content in umool on Choha&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 18 Mar 2019 21:34:36 +0900</lastBuildDate>
+    
+	<atom:link href="https://umoolchoha.github.io/tags/umool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello</title>
+      <link>https://umoolchoha.github.io/about/</link>
+      <pubDate>Mon, 18 Mar 2019 21:34:36 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/about/</guid>
+      <description>hello</description>
+    </item>
+    
+  </channel>
+</rss>

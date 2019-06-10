@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Choha&#39;s blog</title>
+    <link>https://umoolchoha.github.io/tags/</link>
+    <description>Recent content in Tags on Choha&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 09 Jun 2019 23:10:56 +0900</lastBuildDate>
+    
+	<atom:link href="https://umoolchoha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>야생마</title>
+      <link>https://umoolchoha.github.io/tags/%EC%95%BC%EC%83%9D%EB%A7%88/</link>
+      <pubDate>Sun, 09 Jun 2019 23:10:56 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/tags/%EC%95%BC%EC%83%9D%EB%A7%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>umool</title>
+      <link>https://umoolchoha.github.io/tags/umool/</link>
+      <pubDate>Mon, 18 Mar 2019 21:34:36 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/tags/umool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
     <description>Recent content in Categories on 초하</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sun, 09 Jun 2019 23:10:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://umoolchoha.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,25 +14,97 @@
     <item>
       <title>2019年 作</title>
       <link>https://umoolchoha.github.io/categories/2019%E5%B9%B4-%E4%BD%9C/</link>
-      <pubDate>Sun, 09 Jun 2019 23:10:56 +0900</pubDate>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0900</pubDate>
       
       <guid>https://umoolchoha.github.io/categories/2019%E5%B9%B4-%E4%BD%9C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>about</title>
-      <link>https://umoolchoha.github.io/categories/about/</link>
-      <pubDate>Mon, 18 Mar 2019 21:34:36 +0900</pubDate>
+      <title>시</title>
+      <link>https://umoolchoha.github.io/categories/%EC%8B%9C/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://umoolchoha.github.io/categories/about/</guid>
+      <guid>https://umoolchoha.github.io/categories/%EC%8B%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018年 作</title>
+      <link>https://umoolchoha.github.io/categories/2018%E5%B9%B4-%E4%BD%9C/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/categories/2018%E5%B9%B4-%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>수필</title>
+      <link>https://umoolchoha.github.io/categories/%EC%88%98%ED%95%84/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/categories/%EC%88%98%ED%95%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2017年 作</title>
+      <link>https://umoolchoha.github.io/categories/2017%E5%B9%B4-%E4%BD%9C/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/categories/2017%E5%B9%B4-%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016年 作</title>
+      <link>https://umoolchoha.github.io/categories/2016%E5%B9%B4-%E4%BD%9C/</link>
+      <pubDate>Thu, 16 Jun 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/categories/2016%E5%B9%B4-%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>논문</title>
+      <link>https://umoolchoha.github.io/categories/%EB%85%BC%EB%AC%B8/</link>
+      <pubDate>Thu, 16 Jun 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/categories/%EB%85%BC%EB%AC%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2015年 作</title>
+      <link>https://umoolchoha.github.io/categories/2015%E5%B9%B4-%E4%BD%9C/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/categories/2015%E5%B9%B4-%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2014年 作</title>
+      <link>https://umoolchoha.github.io/categories/2014%E5%B9%B4-%E4%BD%9C/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/categories/2014%E5%B9%B4-%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2013年 作</title>
+      <link>https://umoolchoha.github.io/categories/2013%E5%B9%B4-%E4%BD%9C/</link>
+      <pubDate>Sun, 16 Jun 2013 00:00:00 +0900</pubDate>
+      
+      <guid>https://umoolchoha.github.io/categories/2013%E5%B9%B4-%E4%BD%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2012年 作</title>
       <link>https://umoolchoha.github.io/categories/2012%E5%B9%B4-%E4%BD%9C/</link>
-      <pubDate>Tue, 16 Jun 2015 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 16 Jun 2012 00:00:00 +0900</pubDate>
       
       <guid>https://umoolchoha.github.io/categories/2012%E5%B9%B4-%E4%BD%9C/</guid>
       <description></description>

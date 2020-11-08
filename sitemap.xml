@@ -3,19 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://umool.com/categories/2019%E5%B9%B4-%E4%BD%9C/</loc>
-    <lastmod>2019-09-01T00:00:00+09:00</lastmod>
+    <loc>https://umool.com/categories/</loc>
+    <lastmod>2020-11-09T00:34:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://umool.com/categories/</loc>
-    <lastmod>2019-09-01T00:00:00+09:00</lastmod>
+    <loc>https://umool.com/tags/</loc>
+    <lastmod>2020-11-09T00:34:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/categories/about/</loc>
+    <lastmod>2020-11-09T00:34:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/tags/%E8%8D%89%E6%B2%B3/</loc>
+    <lastmod>2020-11-09T00:34:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/tags/%EA%B9%80%EB%AF%B8%EB%9E%80/</loc>
+    <lastmod>2020-11-09T00:34:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/about/</loc>
+    <lastmod>2020-11-09T00:34:36+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/tags/%EC%8B%9C%EC%9D%B8/</loc>
+    <lastmod>2020-11-09T00:34:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/tags/%EC%B4%88%ED%95%98/</loc>
+    <lastmod>2020-11-09T00:34:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/</loc>
+    <lastmod>2020-11-09T00:34:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/categories/2020%E5%B9%B4-%E4%BD%9C/</loc>
+    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://umool.com/poem/</loc>
+    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2020/%EA%B0%80%EC%9D%84%EC%9D%84-%EC%A4%91%EC%96%BC%EA%B1%B0%EB%A6%AC%EB%8B%A4/</loc>
+    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2020/%EA%B0%88%EB%8C%80-%EC%A7%80%ED%8C%A1%EC%9D%B4/</loc>
+    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2020/%EB%A9%94%EB%8F%84%ED%8B%B0/</loc>
+    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2020/%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C/</loc>
+    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/categories/%EC%8B%9C/</loc>
+    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/categories/2019%E5%B9%B4-%E4%BD%9C/</loc>
     <lastmod>2019-09-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -31,18 +110,6 @@
   </url>
   
   <url>
-    <loc>https://umool.com/categories/%EC%8B%9C/</loc>
-    <lastmod>2019-09-01T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://umool.com/</loc>
-    <lastmod>2019-09-01T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://umool.com/poem/2019/%EB%B9%84%EA%B0%80-%EC%98%A4%EB%8B%A4/</loc>
     <lastmod>2019-07-01T00:00:00+09:00</lastmod>
   </url>
@@ -55,12 +122,6 @@
   <url>
     <loc>https://umool.com/poem/2019/%EA%B7%B8%EB%A6%BD%EB%8B%A4%EB%8A%94-%EA%B2%83/</loc>
     <lastmod>2019-06-11T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://umool.com/tags/</loc>
-    <lastmod>2019-06-09T23:10:56+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -393,11 +454,6 @@
   <url>
     <loc>https://umool.com/poem/2012/%EC%A7%80%EC%82%B0%EC%95%84/</loc>
     <lastmod>2012-06-16T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://umool.com/about/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -57,14 +57,30 @@
   
   <url>
     <loc>https://umool.com/categories/2020%E5%B9%B4-%E4%BD%9C/</loc>
-    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
+    <lastmod>2020-10-29T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://umool.com/poem/</loc>
-    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
+    <lastmod>2020-10-29T00:00:00+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2020/%EB%B6%80%EB%81%84%EB%9F%AC%EC%9A%B4-%EA%B8%B0%EB%8F%84/</loc>
+    <lastmod>2020-10-29T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/categories/%EC%8B%9C/</loc>
+    <lastmod>2020-10-29T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2020/%EC%9D%B4%EC%A0%9C%EB%9D%BC%EB%8F%84/</loc>
+    <lastmod>2020-10-29T00:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -85,12 +101,6 @@
   <url>
     <loc>https://umool.com/poem/2020/%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C/</loc>
     <lastmod>2020-08-30T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://umool.com/categories/%EC%8B%9C/</loc>
-    <lastmod>2020-08-30T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -202,12 +212,12 @@
   </url>
   
   <url>
-    <loc>https://umool.com/essay/%ED%95%9C-%EB%B0%94%ED%80%B4-%EB%9A%9C%EB%A0%B7%ED%95%9C-%EB%8B%AC/</loc>
+    <loc>https://umool.com/paper/%EB%AC%B8%ED%99%94-%EC%B6%A9%EA%B2%A9-%EB%AC%B8%ED%99%94%EB%B3%80%EC%9A%A9%EC%9D%84-%EC%97%B4%EA%B3%A0-%EC%9D%B4%EC%83%81%ED%96%A5%EC%9C%BC%EB%A1%9C/</loc>
     <lastmod>2016-06-16T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://umool.com/paper/%E6%9C%88%E9%A4%A0%EA%B3%BC-%EC%86%A1%ED%8E%B8%EC%97%90-%EA%B4%80%ED%95%9C-%EB%8B%B4%EB%A1%A02016/</loc>
+    <loc>https://umool.com/essay/%ED%95%9C-%EB%B0%94%ED%80%B4-%EB%9A%9C%EB%A0%B7%ED%95%9C-%EB%8B%AC/</loc>
     <lastmod>2016-06-16T00:00:00+09:00</lastmod>
   </url>
   
@@ -223,11 +233,6 @@
   
   <url>
     <loc>https://umool.com/poem/2016/%EA%B5%AC%EB%9F%BC%EB%B9%84%EB%82%AD/</loc>
-    <lastmod>2016-06-16T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://umool.com/paper/%EA%B9%80%EC%84%B1%ED%9C%98-%EC%8B%9C-%EC%9E%91%ED%92%88-%EC%97%B0%EA%B5%AC2016/</loc>
     <lastmod>2016-06-16T00:00:00+09:00</lastmod>
   </url>
   
@@ -263,9 +268,29 @@
   </url>
   
   <url>
+    <loc>https://umool.com/paper/%EC%8B%9C%EB%AE%AC%EB%9D%BC%ED%81%AC%EB%A5%B4%EB%A1%9C-%EB%B6%84%EC%84%9D%ED%95%9C-%EC%A1%B0%EC%84%A0%EC%A1%B1-%EC%8B%9C%EB%AC%B8%ED%95%99%EC%9D%98-%EA%B3%A0%ED%96%A5-%EC%9D%B4%EB%AF%B8%EC%A7%80/</loc>
+    <lastmod>2015-10-16T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/paper/%EC%A1%B0%EC%84%A0%EC%A1%B1-%EC%95%84%EB%A6%AC%EB%9E%91-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EB%B3%80%EC%9A%A9-%EC%97%B0%EA%B5%AC/</loc>
+    <lastmod>2015-10-16T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://umool.com/categories/2015%E5%B9%B4-%E4%BD%9C/</loc>
     <lastmod>2015-06-16T00:00:00+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/paper/%EC%8B%A4%EC%A6%9D%EC%A0%81-%EA%B2%BD%EA%B3%84%EC%9D%B8%EC%9C%BC%EB%A1%9C%EC%84%9C%EC%9D%98-%EC%9E%91%EA%B0%80-%EC%97%B0%EA%B5%AC/</loc>
+    <lastmod>2015-06-16T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/paper/%E4%B8%89%E6%AF%9B%EC%99%80-%EC%A0%84%ED%98%9C%EB%A6%B0-%EB%85%B8%EB%A7%88%EB%94%94%EC%A6%98%EC%9D%98-%EB%8F%99%EC%A7%88%EC%84%B1-%EC%97%B0%EA%B5%AC/</loc>
+    <lastmod>2015-06-16T00:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -279,12 +304,27 @@
   </url>
   
   <url>
+    <loc>https://umool.com/paper/%EA%B3%BC%EB%8F%84%EA%B8%B0-%EC%97%AD%EC%82%AC-%EC%86%8D-%EB%AF%BC%EC%B4%88%EB%93%A4%EC%97%90-%EA%B4%80%ED%95%9C-%EB%8B%B4%EB%A1%A0/</loc>
+    <lastmod>2015-06-16T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://umool.com/poem/2015/%EB%84%8B%EB%91%90%EB%A6%AC/</loc>
     <lastmod>2015-06-16T00:00:00+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://umool.com/paper/%EB%94%94%EC%95%84%EC%8A%A4%ED%8F%AC%EB%9D%BC-%EA%B0%95%EA%B0%80%EB%A7%88%EC%9D%98-%EB%88%88%EB%AC%BC-%EA%BD%83/</loc>
+    <lastmod>2015-06-16T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://umool.com/poem/2015/%EB%A7%88%EC%A4%91/</loc>
+    <lastmod>2015-06-16T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/paper/%EB%AF%B8%EA%B5%AD%EC%97%90-%EC%B4%88%EB%8B%B9the-grass-roof%EC%9D%84-%EC%A7%80%EC%9D%80-%EB%94%94%EC%95%84%EC%8A%A4%ED%8F%AC%EB%9D%BC-%EA%B0%95%EC%9A%A9%ED%9D%98/</loc>
     <lastmod>2015-06-16T00:00:00+09:00</lastmod>
   </url>
   
@@ -309,7 +349,7 @@
   </url>
   
   <url>
-    <loc>https://umool.com/paper/%EC%A0%84%ED%98%9C%EB%A6%B0%EA%B3%BC-%EC%8B%BC%EB%A7%88%EC%98%A4-%EB%B9%84%EA%B5%90%EC%97%B0%EA%B5%AC/</loc>
+    <loc>https://umool.com/paper/%E6%9C%88%E9%A4%A0%EA%B3%BC-%EC%86%A1%ED%8E%B8%EC%97%90-%EA%B4%80%ED%95%9C-%EB%8B%B4%EB%A1%A02016/</loc>
     <lastmod>2015-06-16T00:00:00+09:00</lastmod>
   </url>
   

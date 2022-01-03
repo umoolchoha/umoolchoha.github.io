@@ -4,20 +4,57 @@
   
   <url>
     <loc>https://umool.com/categories/2021%E5%B9%B4-%E4%BD%9C/</loc>
-    <lastmod>2021-06-20T00:00:00+09:00</lastmod>
+    <lastmod>2021-12-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://umool.com/categories/</loc>
-    <lastmod>2021-06-20T00:00:00+09:00</lastmod>
+    <lastmod>2021-12-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://umool.com/poem/</loc>
-    <lastmod>2021-06-20T00:00:00+09:00</lastmod>
+    <lastmod>2021-12-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/categories/%EC%8B%9C/</loc>
+    <lastmod>2021-12-01T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2021/%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C/</loc>
+    <lastmod>2021-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2021/%EC%97%AC%EC%97%B4%E9%A4%98%E7%86%B1/</loc>
+    <lastmod>2021-12-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/</loc>
+    <lastmod>2021-12-01T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2021/%EA%B0%80%EC%9D%84-%EC%95%84%EC%B9%A8%EC%97%90/</loc>
+    <lastmod>2021-09-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2021/%EB%82%98%EC%9D%98-%ED%9E%98/</loc>
+    <lastmod>2021-09-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/poem/2021/%EC%9E%90%EB%A6%AC%EB%B0%94%EA%BF%88/</loc>
+    <lastmod>2021-09-01T00:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -28,18 +65,6 @@
   <url>
     <loc>https://umool.com/poem/2021/%EC%84%A4%EA%B1%B0%EC%A7%80/</loc>
     <lastmod>2021-06-20T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://umool.com/categories/%EC%8B%9C/</loc>
-    <lastmod>2021-06-20T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://umool.com/</loc>
-    <lastmod>2021-06-20T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

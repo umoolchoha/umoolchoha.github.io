@@ -15,12 +15,6 @@
   </url>
   
   <url>
-    <loc>https://umool.com/essay/</loc>
-    <lastmod>2022-02-26T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://umool.com/poem/</loc>
     <lastmod>2022-02-26T00:00:00+09:00</lastmod>
     <priority>0</priority>
@@ -32,12 +26,12 @@
   </url>
   
   <url>
-    <loc>https://umool.com/essay/%EB%82%B4%EA%B0%80-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EA%B2%83%EB%93%A4/</loc>
+    <loc>https://umool.com/poem/2022/%EB%82%B4%EA%B0%80-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EA%B2%83%EB%93%A4/</loc>
     <lastmod>2022-02-26T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://umool.com/essay/%EB%B3%B4%EB%A7%90%EC%A3%BD/</loc>
+    <loc>https://umool.com/poem/2022/%EB%B3%B4%EB%A7%90%EC%A3%BD/</loc>
     <lastmod>2022-02-26T00:00:00+09:00</lastmod>
   </url>
   
@@ -235,6 +229,12 @@
   
   <url>
     <loc>https://umool.com/categories/2018%E5%B9%B4-%E4%BD%9C/</loc>
+    <lastmod>2018-06-16T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umool.com/essay/</loc>
     <lastmod>2018-06-16T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
